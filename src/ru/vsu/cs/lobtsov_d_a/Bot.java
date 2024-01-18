@@ -4,5 +4,6 @@ public class Bot extends Player{
     public Bot(String name) {
         super(name);
     }
-//start
+    public static void com(){
+        int i = 0;
 }
